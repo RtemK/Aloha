@@ -1,2 +1,2 @@
 # Aloha
-lerning github
+learning github
